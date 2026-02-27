@@ -1,2 +1,2 @@
-# belajar-github
-project latihan github pertama
+# belajar-phyton
+project latihan phyton pertama
